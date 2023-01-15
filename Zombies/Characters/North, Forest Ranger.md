@@ -9,8 +9,8 @@
 
 ## Traits
 *Pace* : 6
-*Parry* : 
-*Toughness* : 
+*Parry* : 6
+*Toughness* : 7 (2)
 
 ## Hinderances
 *One Eye (Major)* - North lost one eye during a logging accident and wears a permanent eye patch. They take a -2 penalty to any action more than 2 or more Pace away.
