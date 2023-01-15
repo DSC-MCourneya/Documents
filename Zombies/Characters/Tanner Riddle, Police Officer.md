@@ -41,4 +41,4 @@
 *Stun Gun* - 1/2/4, Uses *Shooting*. 3 Shots before needing recharge for 2 hrs. Vigor roll with -2 penalty or be stunned.
 *Baton* - Str + d4
 *Lucy (Glock 9mm)* - 12/24/48. 2d6 Damage.
-*.45 Rounds* (x50)
+*9mm Rounds* (x50)
