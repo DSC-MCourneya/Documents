@@ -1,0 +1,9 @@
+##### Iron-Made
+> Constructs from the old war, few of these creatures are still around. Many have begun to be repurposed by others or started to gain sentience and give themselves purpose. Their true origin is largely unknown, though they are believed to have been built for war eons ago.
+
+The Iron-Made are construct humanoids that continue to be produced by Dwarves. Their history goes as far back as the dwarves and their original purpose is largely unknown, though it is believed they were used in ancient wars long passed. Many operate on their own and gain a sort of sentience, though a fully cognisant Iron-Made is very rare.
+
+- **Living Steel:** Iron-Made are Constructs by nature. They add +2 to recover from being Shaken, ignore one level of Wound modifiers, don't breathe, and are immune to poisons and disease. Wounds must be mended via the Repair skill. Each attempt takes one hour and ignores the "Golden Hour".
+- **Powering Off:** Iron-Made must power-down for a period of at least 8 hours each day to recharge. This can happen abruptly if the Iron-Made is made to skip its usual sleep time and it runs out of power.
+- **Bulky:** Iron-Made are generally designed large and with many features. The Iron-Made suffers a -2 penalty to Trait rolls when using equipment not specifically designed for their larger builds. They cannot wear armor and clothing not specifically designed for them. Equipment, food, and clothing cost double the normal listed price.
+- **Asimov's Law:** Iron-Made inherently gain the *Code of Honor* hinderence. They keep their word, don't abuse or kill prisoners, and generally try to operate within their world's particular notion of proper gentlemanly or ladylike behavior.

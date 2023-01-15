@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9d89871b1302e337",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cbdce2342bb7315",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ARG/README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb93bdf242d26297",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f11ade17e8fdfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152aabb557d74930",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5083b6852012734d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "right": {
+    "id": "591c398afdfbc349",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a251586a6003029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60eba6925c59bcd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ARG/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1cbdce2342bb7315",
+  "lastOpenFiles": [
+    "ARG/README.md",
+    "ProjectP/Tilemaps/Standards.md",
+    "SWADE/Homebrew Content/Enemies/WakkaLakkaMakkaJak.md",
+    "SWADE/Homebrew Content/Enemies/Docha.md",
+    "SWADE/Homebrew Content/Images/Docha.jpg",
+    "SWADE/Characters.md",
+    "SWADE/Homebrew Content/Spells.md",
+    "SWADE/Homebrew Content/Races/Elysium Elf.md",
+    "SWADE/Homebrew Content/Enemies/Gibbin.md",
+    "D&D/OoT/Session 0.5.md"
+  ]
+}
